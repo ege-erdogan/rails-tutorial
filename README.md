@@ -6,6 +6,8 @@
 
 [Rails Source](https://github.com/rails/rails)
 
+[r/Rails](https://www.reddit.com/r/rails/)
+
 ---
 
 [Learn Ruby in Y Minutes](https://learnxinyminutes.com/docs/ruby/)

@@ -8,6 +8,8 @@
 
 [r/Rails](https://www.reddit.com/r/rails/)
 
+[Learn Rails with ThoughtBot](https://thoughtbot.com/upcase/rails)
+
 ---
 
 [Learn Ruby in Y Minutes](https://learnxinyminutes.com/docs/ruby/)
